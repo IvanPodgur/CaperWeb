@@ -2,28 +2,18 @@
 @import url("http://fonts.googleapis.com/css?family=Roboto:400,700");
 
 
-	body {
-
-		width: 1000px;
-	}
-	.content{
-	}
-
-	#backpic{
-
-	}
 
 	#banner{
 		position: absolute;
 		background-image: url("../images/Backs/OrangeBack.png");
 		background-size: 100%;
+
 		width: 100vw;
 		top:0px;
     	left:0px;
     	display: block;
     	height: 47em;
     	min-height: 10em;
-
 
 	}
 
@@ -78,6 +68,7 @@
 		margin-left: auto;
 		display: block;
 		position: relative;
+
 			}	
 
 	#FrontText{
@@ -205,6 +196,7 @@
 		width: auto;
 	    height: 200px; 
 	    margin-top: 10px;
+
 	}
 
 	p.moto{
@@ -231,7 +223,7 @@
 	#JoinForm{
 		display: block;
 		margin-top: 80px;
-		background-color: #ff751a;
+		background-color: #FC7645;
 		border-radius: 10px;
 		height: 530px;
 		width: 400px;
@@ -350,7 +342,7 @@
 
 	#JoinForm{
 		margin-top: 80px;
-		background-color: #ff751a;
+		background-color: #FC7645;
 		border-radius: 10px;
 		height: 530px;
 		width: 400px;
@@ -381,6 +373,8 @@
 	}
 
 
+
+	}
 
 /* Button */
 
