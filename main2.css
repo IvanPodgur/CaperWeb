@@ -7,14 +7,44 @@
 		position: absolute;
 		background-image: url("../images/Backs/OrangeBack.png");
 		background-size: 100%;
-
 		width: 100vw;
 		top:0px;
     	left:0px;
     	display: block;
     	height: 47em;
-    	min-height: 10em;
+	}
 
+	#topbanner{
+		position: absolute;
+		width: 100vw;
+		top:0px;
+    	left:0px;
+    	display: block;
+    	height: 5em;
+    	background-color: #FC7645;
+
+	}
+
+	#footer{
+		position: absolute;
+		width: 100vw;
+		margin-top: 55em;
+		top: 0px;
+		left:0px;
+    	display: block;
+    	height: 30px;
+    	background-color: #FC7645;
+
+	}
+
+	#topcaper{
+		font-size: 34px;
+		color: black;
+	}
+
+	#terms{
+		margin-top: 7em;
+		margin-left: 6em;
 	}
 
 	#one{
@@ -25,7 +55,6 @@
 		display: block;
 		margin-top: 47em;
 		min-height: 700px;
-
 	}
 
 
